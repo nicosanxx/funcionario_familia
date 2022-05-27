@@ -1,0 +1,10 @@
+D:\Exercicios logica\funcionario_familia\bin\Debug\funcionario_familia.exe.config
+D:\Exercicios logica\funcionario_familia\bin\Debug\funcionario_familia.exe
+D:\Exercicios logica\funcionario_familia\bin\Debug\funcionario_familia.pdb
+D:\Exercicios logica\funcionario_familia\obj\Debug\funcionario_familia.csproj.AssemblyReference.cache
+D:\Exercicios logica\funcionario_familia\obj\Debug\funcionario_familia.Form1.resources
+D:\Exercicios logica\funcionario_familia\obj\Debug\funcionario_familia.Properties.Resources.resources
+D:\Exercicios logica\funcionario_familia\obj\Debug\funcionario_familia.csproj.GenerateResource.cache
+D:\Exercicios logica\funcionario_familia\obj\Debug\funcionario_familia.csproj.CoreCompileInputs.cache
+D:\Exercicios logica\funcionario_familia\obj\Debug\funcionario_familia.exe
+D:\Exercicios logica\funcionario_familia\obj\Debug\funcionario_familia.pdb
